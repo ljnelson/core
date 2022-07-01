@@ -32,7 +32,7 @@
         <tomcat.version>10.0.16</tomcat.version>
         <jetty.version>11.0.8</jetty.version>
         <jetty9.asm.version>7.0</jetty9.asm.version>
-        <websockets.api>2.0.0</websockets.api>
+        <websockets.api>2.1.0.jbossorg-1</websockets.api>
         <!-- We need undertow which uses Jakarta 9 packages! -->
         <undertow.version>2.2.13.Final</undertow.version>
         <!-- Testing deps -->
